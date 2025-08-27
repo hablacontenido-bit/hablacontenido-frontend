@@ -22,7 +22,7 @@ export const PreviewMessage = ({ message }: { message: message; }) => {
       >
         {message.role === 'assistant' && (
           <img
-            src="/avatar/bombillo.png"
+            src="/avatar/Tenido.png"
             alt="Millennial Estoico"
             className="size-8 rounded-full ring-1 ring-border object-cover"
           />
@@ -61,7 +61,7 @@ export const ThinkingMessage = () => {
         )}
       >
         <img
-            src="/avatar/bombillo.png"
+            src="/avatar/Tenido.png"
             alt="Millennial Estoico"
             className="size-8 rounded-full ring-1 ring-border object-cover"
           />

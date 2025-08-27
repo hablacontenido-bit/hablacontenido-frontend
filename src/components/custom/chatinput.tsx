@@ -22,7 +22,7 @@ const suggestedActions = [
   {
     title: 'Quiero saber',
     label: 'quiénes hacen parte del equipo de Contenidos',
-    action: 'Necesito ayuda para un contenido puntual que debo sacar',
+    action: 'Quiero saber quiénes hacen parte del equipo de Contenidos',
   }
 ];
 

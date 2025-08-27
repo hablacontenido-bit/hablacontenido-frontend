@@ -14,7 +14,7 @@ export const Overview = () => {
       <div className="rounded-xl p-6 flex flex-col gap-8 leading-relaxed text-center max-w-xl">
         <p className="flex flex-row justify-center gap-4 items-center">
           <img
-            src="/avatar/millennial.png"
+            src="/avatar/bombillo.png"
             alt="Millennial Estoico"
             className="size-20 rounded-full ring-1 ring-border object-cover"
           />

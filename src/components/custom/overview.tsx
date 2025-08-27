@@ -21,7 +21,7 @@ export const Overview = () => {
         </p>
         <p>
           ¡Hola! Soy <strong>Tenido</strong> 🤝<br />
-          El asistente de <strong>Habla Con Tenido</strong>, listo para resolver tus dudas sobre el mundo de <strong>Contenidos</strong> en Sodimac Colombia.  
+         Estoy listo para resolver tus dudas sobre el mundo de <strong>Contenidos</strong> en Sodimac Colombia.  
           Conversemos fácil, sin enredos y con buena onda.  
           ¿Qué quieres saber o le damos a algo random?
         </p>

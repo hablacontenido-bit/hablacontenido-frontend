@@ -20,9 +20,10 @@ export const Overview = () => {
           />
         </p>
         <p>
-          ¡Hey! Soy <strong>Millennial Estoico </strong><br />
-          Estoy aquí para escucharte, ayudarte a pensar con claridad o simplemente charlar <strong>sin juicio</strong>.  
-          ¿Tienes algo en mente o empezamos con algo random?
+          ¡Hola! Soy <strong>Tenido</strong> 🤝<br />
+          El asistente de <strong>Habla Con Tenido</strong>, listo para resolver tus dudas sobre el mundo de <strong>Contenidos</strong> en Sodimac Colombia.  
+          Conversemos fácil, sin enredos y con buena onda.  
+          ¿Qué quieres saber o le damos a algo random?
         </p>
       </div>
     </motion.div>

@@ -14,16 +14,16 @@ interface ChatInputProps {
 }
 
 const suggestedActions = [
-    {
-        title: 'Necesito consejo',
-        label: 'sobre una situación que me tiene dándole vueltas',
-        action: 'Necesito consejo sobre una situación que me tiene dándole vueltas',
-    },
-    {
-        title: 'Quiero subir el ánimo',
-        label: 'algo que me saque una sonrisa o me dé un empujón',
-        action: 'Quiero subir el ánimo algo que me saque una sonrisa o me dé un empujón',
-    },
+  {
+    title: 'Quiero entender mejor',
+    label: 'cómo funciona el área de Contenidos',
+    action: 'Quiero entender mejor cómo funciona el área de Contenidos',
+  },
+  {
+    title: 'Quiero saber',
+    label: 'quiénes hacen parte del equipo de Contenidos',
+    action: 'Necesito ayuda para un contenido puntual que debo sacar',
+  }
 ];
 
 export const ChatInput = ({ question, setQuestion, onSubmit, isLoading }: ChatInputProps) => {

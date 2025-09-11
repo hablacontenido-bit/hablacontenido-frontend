@@ -93,9 +93,9 @@ export const ChatInput = ({ question, setQuestion, onSubmit, isLoading }: ChatIn
             />
 
             <Button
-                className="rounded-full p-2 h-fit absolute bottom-2 right-2 m-1 bg-[#0077D7] text-white hover:bg-purple-800 transition shadow-md disabled:opacity-50"
+                className="rounded-full p-2 h-fit absolute bottom-2 right-2 m-1 bg-[#0077D7] text-white hover:bg-[#0077D7] transition shadow-md disabled:opacity-50"
                 onClick={() => {
-                    setShowSuggestions(false);   // 👈 hide suggestions here too
+                    setShowSuggestions(false);
                     onSubmit(question);
                 }}
                 disabled={question.length === 0}

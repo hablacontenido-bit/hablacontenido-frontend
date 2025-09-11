@@ -13,7 +13,7 @@ export const Header = () => {
         <img
           src="/avatar/logo-contenidos.png"
           alt="Logo Contenidos"
-          className="w-24 sm:w-36 md:w-44 lg:w-52 h-auto"
+          className="w-32 sm:w-44 md:w-56 lg:w-64 h-auto"
         />
       </div>
 
